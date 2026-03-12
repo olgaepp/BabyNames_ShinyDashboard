@@ -1,14 +1,11 @@
-# BabyNames_ShinyDashboard Project Description
+# Baby_Names_ R_Shiny_Dashboard
 
-Goals: to learn R & create a simple dashboard using Shiny Dashboards package.
+The goal was to create a simple dashboard using Shiny Dashboards package in R.
 
-Dataset: baby names in US (1880-2014) from DataCamp https://app.datacamp.com/learn/courses/data-manipulation-with-dplyr 
+Such boards are useful for quick analysis, simple visualisation and intuitive navigation.
 
-Inspiration: DataCamp courses https://app.datacamp.com/learn/courses/building-web-applications-with-shiny-in-r , https://app.datacamp.com/learn/courses/case-studies-building-web-applications-with-shiny-in-r , https://app.datacamp.com/learn/courses/building-dashboards-with-shinydashboard , https://app.datacamp.com/learn/skill-tracks/shiny-fundamentals-with-r
+Dataset: baby names in US (1880-2014) sourced from DataCamp https://app.datacamp.com/learn/courses/data-manipulation-with-dplyr 
 
-Modelled business situation: business that sells products with baby names
+Main question to answer: What baby names are trending now & over time?
 
-Question to answer: What baby names are trending now & over time?
-
-Why Shiny Dashboard: quick analysis, simple visualisation & intuitive navigation
 
